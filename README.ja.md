@@ -42,3 +42,6 @@ logger.display('debug', false);        // debugは非表示
 
 ## 5. ライセンス
 このリポジトリはMITライセンスで公開されています。
+
+## 6. インストール方法
+```npm install aqua-log```でインストールできます。
