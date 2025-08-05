@@ -14,7 +14,7 @@
 
 ## 3. 使い方
 
-```ts
+```js
 import logger from 'aqua-log';
 
 logger.info('これは情報ログ');
