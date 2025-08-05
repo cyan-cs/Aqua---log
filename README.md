@@ -48,3 +48,7 @@ logger.display('debug', false);        // Disable debug logs on console
 ## 5. License
 
 This repository is licensed under the MIT License.
+
+## 6. Installation method
+
+```npm install aqua-log```
