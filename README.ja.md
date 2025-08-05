@@ -1,4 +1,5 @@
-# **Aqua - log**　　　#使いやすいを身近に
+### Click here for English version : [README.md](./README.md)
+# **Aqua - log** — 使いやすいを身近に
 
 ## 1. **Aqua - log**の詳細情報
 **Aqua - log**は、シンプルかつ高機能なTypeScriptで作られたカスタムロガーです。  
