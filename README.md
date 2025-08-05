@@ -1,3 +1,4 @@
+### 日本語版はこちら : [README.ja.md](./README.ja.md)
 # **Aqua - log** — Making Logging Easy and Accessible
 
 ## 1. About **Aqua - log**
