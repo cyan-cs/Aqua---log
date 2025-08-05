@@ -1,6 +1,4 @@
-<p align="right">
-  📄 <a href="./README.md">English version</a>
-</p>
+### Click here for English version : [README.md](./README.md)
 # **Aqua - log** — 使いやすいを身近に
 
 ## 1. **Aqua - log**の詳細情報
