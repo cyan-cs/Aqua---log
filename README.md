@@ -18,7 +18,7 @@ You can easily replace the standard `console` with `logger` to get extensible lo
 ## 3. Usage
 
 ```ts
-import logger from 'aqua-log';
+const logger = require('aqua-log');
 
 logger.info('This is an info log');
 logger.warn('This is a warning log');
