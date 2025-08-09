@@ -15,7 +15,7 @@
 ## 3. 使い方
 
 ```js
-import logger from 'aqua-log';
+const logger = require('aqua-log');
 
 logger.info('これは情報ログ');
 logger.warn('これは警告ログ');
