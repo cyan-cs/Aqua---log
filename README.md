@@ -13,7 +13,6 @@ You can easily replace the standard `console` with `logger` to get extensible lo
 * Supports color customization per log level (default colors: blue for info, yellow for warn, etc.)
 * Supports writing logs to files, either per log level or all logs combined
 * Allows toggling console output on or off per log level
-* Written in TypeScript for type safety and better developer experience
 
 ## 3. Usage
 
