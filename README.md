@@ -3,7 +3,7 @@
 
 ## 1. About **Aqua - log**
 
-**Aqua - log** is a simple yet powerful custom logger built with TypeScript.
+**Aqua - log** is a simple yet powerful custom logger built with javascript.
 You can easily replace the standard `console` with `logger` to get extensible log levels, color-coded outputs, file writing, and display control — all made easy.
 
 ## 2. Features
